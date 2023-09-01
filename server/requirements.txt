@@ -1,0 +1,8 @@
+aioredis==2.0.1
+fastapi==0.103.0
+gunicorn==21.2.0
+pip-chill==1.0.3
+python-dotenv==1.0.0
+uuid==1.30
+uvicorn==0.23.2
+websockets==11.0.3
